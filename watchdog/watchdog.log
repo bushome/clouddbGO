@@ -1,0 +1,89 @@
+[2026-09-03T21:14:41.179Z] Watchdog starting.
+[2026-09-03T21:14:41.182Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T21:15:16.231Z] Health check passed.
+[2026-09-03T21:21:38.751Z] Child process exited (code=4294967295, signal=null).
+[2026-09-03T21:21:38.752Z] Crash #1 in current 300000ms window (reason: exited with code 4294967295).
+[2026-09-03T21:21:38.752Z] Waiting 1000ms before restart attempt.
+[2026-09-03T21:21:39.755Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T21:22:14.791Z] Health check passed.
+[2026-09-03T23:31:35.606Z] Watchdog starting.
+[2026-09-03T23:31:35.610Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T23:31:36.798Z] Child process exited (code=1, signal=null).
+[2026-09-03T23:31:36.799Z] Crash #1 in current 300000ms window (reason: exited with code 1).
+[2026-09-03T23:31:36.799Z] Waiting 1000ms before restart attempt.
+[2026-09-03T23:31:37.815Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T23:31:38.730Z] Child process exited (code=1, signal=null).
+[2026-09-03T23:31:38.731Z] Crash #2 in current 300000ms window (reason: exited with code 1).
+[2026-09-03T23:31:38.731Z] Waiting 2000ms before restart attempt.
+[2026-09-03T23:31:40.739Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T23:31:41.599Z] Child process exited (code=1, signal=null).
+[2026-09-03T23:31:41.599Z] Crash #3 in current 300000ms window (reason: exited with code 1).
+[2026-09-03T23:31:41.600Z] Waiting 4000ms before restart attempt.
+[2026-09-03T23:32:25.254Z] Watchdog starting.
+[2026-09-03T23:32:25.257Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T23:32:26.093Z] Child process exited (code=1, signal=null).
+[2026-09-03T23:32:26.094Z] Crash #1 in current 300000ms window (reason: exited with code 1).
+[2026-09-03T23:32:26.094Z] Waiting 1000ms before restart attempt.
+[2026-09-03T23:32:27.100Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T23:32:27.930Z] Child process exited (code=1, signal=null).
+[2026-09-03T23:32:27.931Z] Crash #2 in current 300000ms window (reason: exited with code 1).
+[2026-09-03T23:32:27.931Z] Waiting 2000ms before restart attempt.
+[2026-09-03T23:32:29.934Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T23:32:30.763Z] Child process exited (code=1, signal=null).
+[2026-09-03T23:32:30.764Z] Crash #3 in current 300000ms window (reason: exited with code 1).
+[2026-09-03T23:32:30.764Z] Waiting 4000ms before restart attempt.
+[2026-09-03T23:32:34.774Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T23:32:35.605Z] Child process exited (code=1, signal=null).
+[2026-09-03T23:32:35.605Z] Crash #4 in current 300000ms window (reason: exited with code 1).
+[2026-09-03T23:32:35.606Z] Waiting 8000ms before restart attempt.
+[2026-09-03T23:34:34.907Z] Watchdog starting.
+[2026-09-03T23:34:34.910Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T23:35:09.959Z] Health check passed.
+[2026-09-03T23:48:06.093Z] Watchdog starting.
+[2026-09-03T23:48:06.096Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-03T23:48:41.145Z] Health check passed.
+[2026-09-04T00:22:10.717Z] Watchdog starting.
+[2026-09-04T00:22:10.720Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T00:22:45.778Z] Health check passed.
+[2026-09-04T00:49:02.258Z] Watchdog starting.
+[2026-09-04T00:49:02.262Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T00:49:02.313Z] Child process exited (code=1, signal=null).
+[2026-09-04T00:49:02.314Z] Crash #1 in current 300000ms window (reason: exited with code 1).
+[2026-09-04T00:49:02.314Z] Waiting 1000ms before restart attempt.
+[2026-09-04T00:49:03.323Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T00:49:03.374Z] Child process exited (code=1, signal=null).
+[2026-09-04T00:49:03.375Z] Crash #2 in current 300000ms window (reason: exited with code 1).
+[2026-09-04T00:49:03.375Z] Waiting 2000ms before restart attempt.
+[2026-09-04T00:49:05.385Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T00:49:05.434Z] Child process exited (code=1, signal=null).
+[2026-09-04T00:49:05.434Z] Crash #3 in current 300000ms window (reason: exited with code 1).
+[2026-09-04T00:49:05.435Z] Waiting 4000ms before restart attempt.
+[2026-09-04T00:49:09.442Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T00:49:09.492Z] Child process exited (code=1, signal=null).
+[2026-09-04T00:49:09.493Z] Crash #4 in current 300000ms window (reason: exited with code 1).
+[2026-09-04T00:49:09.493Z] Waiting 8000ms before restart attempt.
+[2026-09-04T00:49:24.659Z] Watchdog starting.
+[2026-09-04T00:49:24.662Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T00:49:59.712Z] Health check passed.
+[2026-09-04T01:31:40.584Z] Watchdog starting.
+[2026-09-04T01:31:40.588Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T01:32:15.654Z] Health check passed.
+[2026-09-04T03:47:27.722Z] Child process exited (code=9, signal=null).
+[2026-09-04T03:47:27.723Z] Crash #1 in current 300000ms window (reason: exited with code 9).
+[2026-09-04T03:47:27.724Z] Waiting 1000ms before restart attempt.
+[2026-09-04T03:47:28.727Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T03:48:03.760Z] Health check passed.
+[2026-09-04T06:36:42.982Z] Child process exited (code=9, signal=null).
+[2026-09-04T06:36:42.983Z] Crash #1 in current 300000ms window (reason: exited with code 9).
+[2026-09-04T06:36:42.984Z] Waiting 2000ms before restart attempt.
+[2026-09-04T06:36:44.997Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T06:37:20.018Z] Health check passed.
+[2026-09-04T07:05:23.307Z] Watchdog starting.
+[2026-09-04T07:05:23.311Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T07:05:58.354Z] Health check passed.
+[2026-09-04T16:05:55.748Z] Watchdog starting.
+[2026-09-04T16:05:55.751Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T16:06:30.803Z] Health check passed.
+[2026-09-04T17:21:27.279Z] Watchdog starting.
+[2026-09-04T17:21:27.283Z] Launching child process: node main.js (cwd: C:\Program Files\iisnode\www\clouddb\dist)
+[2026-09-04T17:22:02.338Z] Health check passed.
